@@ -16,7 +16,7 @@ Author: Richard Foltyn
 | Week | Day         | L/W | Topic | Notes & Exercises | Solutions |
 |------|-------------|-----|-------|----------------------|------------------------------------------|
 |  39  | Wed, Sep 24 | `L` | Git & VS Code (& NumPy) | [Slides](lectures/lecture1/lecture1-slides.pdf) | —  |
-|      | Fri, Sep 26 | `W` | Git & VS Code (& NumPy) | [Notebook](workshops/workshop1/workshop1.ipynb), [PDF](workshops/workshop1/workshop1.pdf) | |
+|      | Fri, Sep 26 | `W` | Git & VS Code (& NumPy) | [Notebook](workshops/workshop1/workshop1.ipynb), [PDF](workshops/workshop1/workshop1.pdf) | [Notebook](workshops/workshop1/workshop1-solution.ipynb), [PDF](workshops/workshop1/workshop1-solution.pdf) |
 |  40  | Wed, Oct 1  | `L` | Intro to pandas | [Notebook](lectures/lecture2/lecture2.ipynb), [PDF](lectures/lecture2/lecture2.pdf) | —  |
 |      | Wed, Oct 3  | `W` | Intro to pandas | [Notebook](workshops/workshop2/workshop2.ipynb), [PDF](workshops/workshop2/workshop2.pdf) |  |
 |  41  | Wed, Oct 8  | `L` | Plotting | [Notebook](lectures/lecture3/lecture3.ipynb), [PDF](lectures/lecture3/lecture3.pdf) | —  |

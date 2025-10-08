@@ -18,7 +18,7 @@ Author: Richard Foltyn
 |  39  | Wed, Sep 24 | `L` | Git & VS Code (& NumPy) | [Slides](lectures/lecture1/lecture1-slides.pdf) | —  |
 |      | Fri, Sep 26 | `W` | Git & VS Code (& NumPy) | [Notebook](workshops/workshop1/workshop1.ipynb), [PDF](workshops/workshop1/workshop1.pdf) | [Notebook](workshops/workshop1/workshop1-solution.ipynb), [PDF](workshops/workshop1/workshop1-solution.pdf) |
 |  40  | Wed, Oct 1  | `L` | Intro to pandas | [Notebook](lectures/lecture2/lecture2.ipynb), [PDF](lectures/lecture2/lecture2.pdf) | —  |
-|      | Wed, Oct 3  | `W` | Intro to pandas | [Notebook](workshops/workshop2/workshop2.ipynb), [PDF](workshops/workshop2/workshop2.pdf) |  |
+|      | Wed, Oct 3  | `W` | Intro to pandas | [Notebook](workshops/workshop2/workshop2.ipynb), [PDF](workshops/workshop2/workshop2.pdf) | [Notebook](workshops/workshop2/workshop2-solution.ipynb), [PDF](workshops/workshop2/workshop2-solution.pdf) |
 |  41  | Wed, Oct 8  | `L` | Plotting | [Notebook](lectures/lecture3/lecture3.ipynb), [PDF](lectures/lecture3/lecture3.pdf) | —  |
 |      | Fri, Oct 10 | `W` | Plotting | [Notebook](workshops/workshop3/workshop3.ipynb), [PDF](workshops/workshop3/workshop3.pdf) |  |
 |  42  | Wed, Oct 15 | `L` | Grouping and aggregation | [Notebook](lectures/lecture4/lecture4.ipynb), [PDF](lectures/lecture4/lecture4.pdf) | —  |
